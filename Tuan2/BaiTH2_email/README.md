@@ -1,4 +1,4 @@
-# baith2
+# baith2_email
 
 bài thực thành 2
 
