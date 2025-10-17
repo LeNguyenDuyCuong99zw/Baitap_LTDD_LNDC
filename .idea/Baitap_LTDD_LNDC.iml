@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Tuan1/BT1/SourceCode/bai_tap1_profile/profile_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Tuan1/BT1/SourceCode/bai_tap1_profile/profile_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Tuan1/BT1/SourceCode/bai_tap1_profile/profile_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Tuan2/BTVN_tuan2/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Tuan2/BTVN_tuan2/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Tuan2/BTVN_tuan2/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Tuan2/BaiTH2/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Tuan2/BaiTH2/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Tuan2/BaiTH2/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Tuan2/BaiTH2_email/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Tuan2/BaiTH2_email/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Tuan2/BaiTH2_email/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
